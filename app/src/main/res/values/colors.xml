@@ -1,0 +1,8 @@
+<resources>
+    <color name="primary_blue">#2A5C91</color>
+    <color name="secondary_blue">#5A8DB4</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="background_white">#F8F9FF</color>
+    <color name="text_dark">#1A237E</color>
+    <color name="error_red">#FF5252</color>
+</resources>

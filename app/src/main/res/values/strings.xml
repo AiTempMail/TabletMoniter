@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tablet Monitor</string>
+    <string name="add_tablet">Add Tablet</string>
+    <string name="update">Update</string>
+    <string name="dosage_hint">Dosage (mg)</string>
+    <string name="stock_hint">Quantity</string>
+    <string name="tablet_name">Tablet Name</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.tabletmonitor.app-mergeDebugResources-54:/layout/item_tablet.xml",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/item_tablet.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-mergeDebugResources-54:/layout/fragment_graph.xml",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/fragment_graph.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-mergeDebugResources-54:/layout/dialog_add_tablet.xml",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/dialog_add_tablet.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-mergeDebugResources-54:/layout/fragment_dashboard.xml",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-mergeDebugResources-54:/layout/activity_tablet_detail.xml",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/activity_tablet_detail.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/activity_main.xml"
+    }
+]

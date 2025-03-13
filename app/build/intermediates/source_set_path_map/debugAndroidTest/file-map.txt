@@ -1,0 +1,6 @@
+com.example.tabletmonitor.test.app-jetified-core-1.5.0-0 C:\Users\reddy\.gradle\caches\transforms-3\8db82d90423b20f5ec8402364b495f92\transformed\jetified-core-1.5.0\res
+com.example.tabletmonitor.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\reddy\.gradle\caches\transforms-3\c3f13887bc6a65f0910462eed5e3275b\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.tabletmonitor.test.app-androidTest-2 C:\Users\reddy\AndroidStudioProjects\TabletMonitorApp\app\build\generated\res\resValues\androidTest\debug
+com.example.tabletmonitor.test.app-mergeDebugAndroidTestResources-3 C:\Users\reddy\AndroidStudioProjects\TabletMonitorApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.tabletmonitor.test.app-mergeDebugAndroidTestResources-4 C:\Users\reddy\AndroidStudioProjects\TabletMonitorApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.tabletmonitor.test.app-merged_res-5 C:\Users\reddy\AndroidStudioProjects\TabletMonitorApp\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,3 @@
+com.example.tabletmonitor.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

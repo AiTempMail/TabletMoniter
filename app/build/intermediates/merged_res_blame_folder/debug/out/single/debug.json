@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/drawable_ic_graph.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/drawable/ic_graph.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/drawable_ic_dashboard.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/drawable_ic_pill.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/drawable/ic_pill.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/layout_fragment_graph.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/fragment_graph.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/layout_item_tablet.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/item_tablet.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/navigation_nav_graph.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/layout_dialog_add_tablet.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/dialog_add_tablet.xml"
+    },
+    {
+        "merged": "com.example.tabletmonitor.app-merged_res-55:/layout_activity_tablet_detail.xml.flat",
+        "source": "com.example.tabletmonitor.app-main-57:/layout/activity_tablet_detail.xml"
+    }
+]

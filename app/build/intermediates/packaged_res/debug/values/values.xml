@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_green">#4CAF50</color>
+    <color name="background_white">#F8F9FF</color>
+    <color name="error_red">#FF5252</color>
+    <color name="primary_blue">#2A5C91</color>
+    <color name="secondary_blue">#5A8DB4</color>
+    <color name="text_dark">#1A237E</color>
+    <string name="add_tablet">Add Tablet</string>
+    <string name="app_name">Tablet Monitor</string>
+    <string name="dosage_hint">Dosage (mg)</string>
+    <string name="stock_hint">Quantity</string>
+    <string name="tablet_name">Tablet Name</string>
+    <string name="update">Update</string>
+    <style name="Theme.TabletMonitorApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/secondary_blue</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="colorSecondaryVariant">@color/accent_green</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
